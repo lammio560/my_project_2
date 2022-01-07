@@ -2,3 +2,4 @@ master_4.txt 1
 master_4.txt 2 slave_1
 msater_4.txt 3 main
 msater_4.txt 4 main
+master_4.txt 4 slave_2
