@@ -6,3 +6,5 @@ master_4.txt 4 slave_2
 ----------------------
 master_4.txt 5 main
 master_4.txt 6 main
+----------------------
+master_4.txt 6 main Polina
