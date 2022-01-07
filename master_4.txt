@@ -8,3 +8,4 @@ master_4.txt 5 main
 master_4.txt 6 main
 ----------------------
 master_4.txt 6 main Polina
+master_4.txt 7 main Tortoise Nikolay
